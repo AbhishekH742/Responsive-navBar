@@ -26,7 +26,7 @@ nav{
 .nav-toggle:hover{
     transition: .5s;
     color: black;
-    transform: rotate(-90deg);
+    transform: rotate(-90deg);  
 }
 .logo h2 {
     color: red;
